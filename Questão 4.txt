@@ -1,0 +1,8 @@
+* Primeiramente podemos ligar o primeiro interruptor e esperamos um tempo até que a lâmpada aqueça;
+* Depois desligamis o primeiro interruptor e ligamos o segundo;
+* Em seguida vamos atá a sala que estão as lâmpadas;
+
+Agora, há três possibilidades:
+    Se a lâmpada estiver acesa, então o segundo interruptor controla essa lâmpada.
+    Se a lâmpada estiver apagada e quente, então o primeiro interruptor controla essa lâmpada.
+    Se a lâmpada estiver apagada e fria, então o terceiro interruptor controla essa lâmpada.

@@ -1,0 +1,6 @@
+Na primeira iteração, K é 1, então SOMA se torna 1.
+Na segunda iteração, K é 2, então SOMA se torna 3 (1 + 2).
+Na terceira iteração, K é 3, então SOMA se torna 6 (1 + 2 + 3).
+E assim por diante, até K atingir 13.
+
+Ao final da SOMA temos 91.

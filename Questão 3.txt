@@ -1,0 +1,19 @@
+a) 1, 3, 5, 7, _9_
+x+2
+
+b) 2, 4, 8, 16, 32, 64, _128_
+x*2
+
+c) 0, 1, 4, 9, 16, 25, 36, _49_
+quadrado dos números naturais consecutivos.
+
+d) 4, 16, 36, 64, _100_
+são os quadrados dos números pares consecutivos
+
+e) 1, 1, 2, 3, 5, 8, _13_
+sequência de Fibonacci
+
+f) 2, 10, 12, 16, 17, 18, 19, _20_
+O primeiro número é 2.
+Para os números ímpares, eles são formados somando ao número anterior a um valor específico.
+Para os números pares, eles são formados multiplicando-se ao número anterior por um valor específico.
